@@ -3,13 +3,15 @@
   font-size: 3rem;
   text-decoration: underline;
   color: #2A77AE;
-  margin-bottom: 50px;
+  margin: 25px;
 }
 
 .title{
   float:left;
+  margin: 25px;
 }
 
 .score{
   float:right;
+  margin: 25px;
 }
